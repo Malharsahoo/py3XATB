@@ -21,3 +21,4 @@ print(type(qube))'''
 #             ------------M3------------
 num=2
 print(f"the square of the number is: {num**2}",f"\nthe qube of number is: {num**3}")
+#Res=the square of the number is: 4 , the qube of number is: 8
