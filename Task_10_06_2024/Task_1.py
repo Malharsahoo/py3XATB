@@ -10,8 +10,14 @@ print(type(qube))'''
 #Res= the square of the number is 4, and the qube of the number is 8.0, <class 'int'>, <class 'float'>
 
 #               ------M2--------
-import math
-num=int(input("enter the value\n"))
-print(f"the square of the number is:{num**2}",f"\nthe qube of the number is:{math.pow(num,3)}")
+#import math
+#num=int(input("enter the value\n"))
+#print(f"the square of the number is:{num**2}",f"\nthe qube of the number is:{math.pow(num,3)}")
 #Res= enter the value, 2    ,, the square of the number is:4, the qube of the number is:8.0
 
+
+
+
+#             ------------M3------------
+num=2
+print(f"the square of the number is: {num**2}",f"\nthe qube of number is: {num**3}")
