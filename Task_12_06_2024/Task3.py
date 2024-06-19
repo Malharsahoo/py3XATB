@@ -1,4 +1,4 @@
-# Factorial of a number using for loop and while
+# Factorial of a number using for loop and while loop
 
 
 #number = int(input("enter a number: \n"))
