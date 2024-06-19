@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="commit 5">
-      <change afterPath="$PROJECT_DIR$/Ex_17_06_2024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17_06_2024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17_06_2024/Lab021.py" afterDir="false" />
+    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="commit 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_12_06_2024/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12_06_2024/Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,29 +78,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task1">
-    <configuration name="Lab018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py3XATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_17_06_2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_17_06_2024/Lab018.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task3">
     <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
@@ -191,13 +167,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py3XATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_06_2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_06_2024/Task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task3" />
         <item itemvalue="Python.Task1" />
         <item itemvalue="Python.Lab021" />
         <item itemvalue="Python.Lab020" />
         <item itemvalue="Python.Lab019" />
-        <item itemvalue="Python.Lab018" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718780442370</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit 6">
+      <option name="closed" value="true" />
+      <created>1718794539739</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718794539739</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -300,6 +306,7 @@
     <MESSAGE value="set data type and area of circle using math library" />
     <MESSAGE value="Task_10_06_2024" />
     <MESSAGE value="commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
+    <MESSAGE value="commit 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 6" />
   </component>
 </project>
