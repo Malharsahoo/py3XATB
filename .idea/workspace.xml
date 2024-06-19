@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="Task_10_06_2024">
+      <change afterPath="$PROJECT_DIR$/Ex_12_06_2024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14_06_2024/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14_06_2024/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14_06_2024/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14_06_2024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14_06_2024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14_06_2024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17_06_2024/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17_06_2024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_06_2024/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_06_2024/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_06_2024/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_06_2024/Task4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_10_06_2024/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_10_06_2024/Task_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +68,27 @@
     &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Task_1">
-    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab018">
+    <configuration name="Lab016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_07_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_07_06_2024/Lab004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14_06_2024/Lab016.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_10_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_10_06_2024/Lab009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14_06_2024/Lab017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_10_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_17_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_10_06_2024/Lab010.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_17_06_2024/Lab018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10_06_2024/Task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_06_2024/Task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10_06_2024/Task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_06_2024/Task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_1" />
-        <item itemvalue="Python.Task_2" />
-        <item itemvalue="Python.Lab010" />
-        <item itemvalue="Python.Lab009" />
-        <item itemvalue="Python.Lab004" />
+        <item itemvalue="Python.Lab018" />
+        <item itemvalue="Python.Task3" />
+        <item itemvalue="Python.Task1" />
+        <item itemvalue="Python.Lab017" />
+        <item itemvalue="Python.Lab016" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718389327662</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task_10_06_2024">
+      <option name="closed" value="true" />
+      <created>1718420681699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718420681699</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task_10_06_2024">
+      <option name="closed" value="true" />
+      <created>1718420744886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718420744886</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
