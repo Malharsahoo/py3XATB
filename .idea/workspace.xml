@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="commit 6">
+    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="factorial of number using for loop and while loop">
+      <change afterPath="$PROJECT_DIR$/Ex_19_06_2024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19_06_2024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19_06_2024/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19_06_2024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19_06_2024/Lab026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_12_06_2024/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12_06_2024/Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +72,14 @@
     "Python.Lab019.executor": "Run",
     "Python.Lab020.executor": "Run",
     "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
-    "Python.Task3.executor": "Run",
+    "Python.Task3.executor": "Debug",
     "Python.Task4.executor": "Run",
     "Python.Task_1.executor": "Run",
     "Python.Task_2.executor": "Run",
@@ -78,8 +87,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task3">
-    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab026">
+    <configuration name="Lab022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_17_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_19_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_17_06_2024/Lab019.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_19_06_2024/Lab022.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_17_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_19_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_17_06_2024/Lab020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_19_06_2024/Lab023.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_17_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_19_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_17_06_2024/Lab021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_19_06_2024/Lab024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_19_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_06_2024/Task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_19_06_2024/Lab025.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_19_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_06_2024/Task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_19_06_2024/Lab026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task3" />
-        <item itemvalue="Python.Task1" />
-        <item itemvalue="Python.Lab021" />
-        <item itemvalue="Python.Lab020" />
-        <item itemvalue="Python.Lab019" />
+        <item itemvalue="Python.Lab026" />
+        <item itemvalue="Python.Lab025" />
+        <item itemvalue="Python.Lab024" />
+        <item itemvalue="Python.Lab023" />
+        <item itemvalue="Python.Lab022" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +304,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718794539739</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="factorial using for loop and while loop">
+      <option name="closed" value="true" />
+      <created>1718795971610</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718795971610</updated>
+    </task>
+    <task id="LOCAL-00012" summary="factorial of number using for loop and while loop">
+      <option name="closed" value="true" />
+      <created>1718796051710</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718796051710</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,6 +332,24 @@
     <MESSAGE value="Task_10_06_2024" />
     <MESSAGE value="commit 5" />
     <MESSAGE value="commit 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 6" />
+    <MESSAGE value="factorial using for loop and while loop" />
+    <MESSAGE value="factorial of number using for loop and while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial of number using for loop and while loop" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task_12_06_2024/Task3.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task_12_06_2024/Task3.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
