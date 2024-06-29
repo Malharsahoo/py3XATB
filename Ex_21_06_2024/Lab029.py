@@ -56,7 +56,7 @@ def logs_function():
 
 # we can have multiple decorators also
 
-def decorator1(func):
+''' def decorator1(func):
     def wraapper():
         print("decorator1")
         func()
@@ -73,4 +73,69 @@ say_hello()
 @decorator1
 def say_hello():
     print("this line is hello function for decorator function 1")
-say_hello()
+say_hello() '''
+
+
+#decorator2
+#this line is hello function for decorator function 2
+#decorator1
+#this line is hello function for decorator function 1
+
+
+
+
+
+'''import time
+n=int(input("enter a no:\n"))
+
+def my_timer_2(func):
+    def wrapper():
+        print("execute the function")
+        func()
+    return wrapper
+def my_timer_1(func):
+    def wrapper():
+        start_time=time.time()
+        func()
+        end_time=time.time()
+        print("time taken to execute the function is: ", end_time-start_time)
+    return wrapper
+@my_timer_1
+@my_timer_2
+def squares():
+    result=n**2
+    print(f"the square of the number {n} is: {result}")
+    time.sleep(3)
+squares()'''
+
+
+#o/p=enter a no:
+#5
+#execute the function
+#the square of the number 5 is: 25
+#time taken to execute the function is:  3.0005712509155273
+
+
+import time
+n=int(input("enter a no:\n"))
+def my_timer_1(func):
+    def wrapper():
+        start_time=time.time()
+        func()
+        end_time=time.time()
+        print("time taken to execute the function is: ", end_time-start_time)
+    return wrapper
+def my_timer_2(func):
+    def wrapper():
+        dic=
+        print("execute the function")
+        func()
+    return wrapper
+@my_timer_2
+@my_timer_1
+def squares():
+    result=n**2
+    print(f"the square of the number {n} is: {result}")
+    time.sleep(3)
+squares()
+
