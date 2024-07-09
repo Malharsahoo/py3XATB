@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="encaps">
-      <change afterPath="$PROJECT_DIR$/Ex_28_06_2024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28_06_2024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28_06_2024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28_06_2024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28_06_2024/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28_06_2024/Lab045.py" afterDir="false" />
+    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="encapsulation, get and set">
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01_07_2024/Lab054.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,69 +52,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab044.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task3.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013 (1).executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Debug",
+    "Python.Lab035.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task3.executor": "Debug",
+    "Python.Task4.executor": "Run",
+    "Python.Task_1.executor": "Run",
+    "Python.Task_2.executor": "Run",
+    "Python.exp.executor": "Run",
+    "Python.practice (1).executor": "Run",
+    "Python.practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.Lab045">
-    <configuration name="Lab040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Lab054">
+    <configuration name="Lab050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01_07_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28_06_2024/Lab040.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01_07_2024/Lab050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01_07_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28_06_2024/Lab041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01_07_2024/Lab051.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01_07_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28_06_2024/Lab042.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01_07_2024/Lab052.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01_07_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28_06_2024/Lab043.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01_07_2024/Lab053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28_06_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01_07_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28_06_2024/Lab045.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01_07_2024/Lab054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab045" />
-        <item itemvalue="Python.Lab043" />
-        <item itemvalue="Python.Lab042" />
-        <item itemvalue="Python.Lab041" />
-        <item itemvalue="Python.Lab040" />
+        <item itemvalue="Python.Lab054" />
+        <item itemvalue="Python.Lab053" />
+        <item itemvalue="Python.Lab052" />
+        <item itemvalue="Python.Lab051" />
+        <item itemvalue="Python.Lab050" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719992395316</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="encapsulation, get and set">
+      <option name="closed" value="true" />
+      <created>1720258553050</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720258553050</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -393,7 +413,8 @@
     <MESSAGE value="Tuple,Set,decorator(),dictionary" />
     <MESSAGE value="dctionary,filters,recursion" />
     <MESSAGE value="oops,constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops,constructors" />
+    <MESSAGE value="encapsulation, get and set" />
+    <option name="LAST_COMMIT_MESSAGE" value="encapsulation, get and set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
