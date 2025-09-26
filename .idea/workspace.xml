@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="Exception Handling, Main Method/Function,File Handling">
-      <change afterPath="$PROJECT_DIR$/ex_05july/Ex_05_07_2024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05july/Ex_05_07_2024/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05july/Ex_05_07_2024/sipu/sipu.txt" afterDir="false" />
+    <list default="true" id="3784da49-98e5-40fa-9ada-bc4f4235b719" name="Changes" comment="OS Module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03_06_2024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03_06_2024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,8 +135,8 @@
       <recent name="C:\Users\Admin\PycharmProjects\py3XATB\ex_05july" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab068 (1)">
-    <configuration name="Lab065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab002">
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03_07_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03_07_2024/Lab065.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03_06_2024/Lab001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3XATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03_07_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03_06_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03_07_2024/Lab066.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03_06_2024/Lab002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab002" />
+        <item itemvalue="Python.Lab001" />
         <item itemvalue="Python.Lab068 (1)" />
         <item itemvalue="Python.Lab068" />
         <item itemvalue="Python.Lab067" />
-        <item itemvalue="Python.Lab066" />
-        <item itemvalue="Python.Lab065" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720670520613</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="OS Module">
+      <option name="closed" value="true" />
+      <created>1721028162994</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721028162994</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -447,7 +453,8 @@
     <MESSAGE value="encapsulation, get and set" />
     <MESSAGE value="INHERITANCE,POLYMORPHISM,SUPERCLASS,ABSTRACTION" />
     <MESSAGE value="Exception Handling, Main Method/Function,File Handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling, Main Method/Function,File Handling" />
+    <MESSAGE value="OS Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="OS Module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
